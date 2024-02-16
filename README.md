@@ -37,19 +37,17 @@ Below are some key visualizations from the project:
 *Passenger Satisfaction Distribution*
 
 ![Age Distribution of Passengers](age.png)
+
 *Age Distribution of Passengers*
 
 ![Gender Distribution](gender.png)
+
 *Gender Distribution*
 
 ![Flight Distance by Satisfaction](Rplot.png)
+
 *Flight Distance by Satisfaction*
 
 ## Conclusion
 This project demonstrates the application of data science in understanding customer satisfaction. The insights derived from this analysis could be instrumental for airlines looking to enhance their customer service and overall satisfaction levels.
 
-## Contact
-Feel free to reach out for any questions or if you are interested in collaborating on similar projects.
-
-- Email: mattj2606@gmail.com
-- LinkedIn: [https://linkedin.com/in/myankovsky/](https://linkedin.com/in/myankovsky/)
